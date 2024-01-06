@@ -233,6 +233,10 @@ textarea {
     width: 80%;
 }
 
+input, textarea{
+    margin-left: 120px;
+}
+
 .change-right{
     text-align: right;
 }
