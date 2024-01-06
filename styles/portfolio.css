@@ -225,14 +225,19 @@ footer {
 textarea {
     display: block;
     margin-bottom: 25px;
-    padding: 18px 30px;
+    padding: 18px 35px;
     color: #757575;
     border-radius: 5px;
     background: #FFF;
     border: 0;
-    width: 100%;
+    width: 80%;
 }
 
 .change-right{
     text-align: right;
+}
+
+input, textarea{
+    margin-left: auto;
+    margin-right: auto;
 }
