@@ -232,10 +232,8 @@ textarea {
     border: 0;
     width: 80%;
 }
-.section-chg-right{
-    text-align: right;
-}
+
 input, textarea{
-    margin-left: 240px;
+    margin-left: 120px;
     
 }
